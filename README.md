@@ -117,11 +117,3 @@ Os casos de teste manuais foram elaborados previamente e serviram de base para a
 🧩 **Projeto anterior (RWA):** [https://github.com/ThalikParente/qa-projeto-cypress](https://github.com/ThalikParente/qa-projeto-cypress)
 
 ---
-
-📅 **Última atualização:** 27/10/2025  
-👤 **Autor:** Thálik Andrade Parente  
-💬 *“Qualidade não é uma fase, é uma cultura dentro do time.”*
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thálik-parente/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalik.aparente@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/thalik6)
