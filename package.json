@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/cypress": "^0.1.6",
+    "chance": "^1.1.13",
+    "cypress": "^15.7.1",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@prisma/client": "^4.8.1",
+    "prisma": "^4.8.1"
+  }
+}

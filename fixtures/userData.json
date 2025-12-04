@@ -1,0 +1,14 @@
+{
+  "userAdmin": {
+    "username": "admin@test.com",
+    "password": "test123"
+  },
+  "userFail": {
+    "username": "Fail",
+    "password": "Fail"
+  },
+  "userDefault": {
+    "username": "test@test.com",
+    "password": "test123"
+  }
+}
